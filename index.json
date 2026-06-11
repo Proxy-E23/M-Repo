@@ -2,16 +2,16 @@
   {
     "name": "Tachiyomi: Capibara Traductor",
     "pkg": "eu.kanade.tachiyomi.extension.es.capibarahub",
-    "apk": "tachiyomi-es.capibarahub-v1.4.6.apk",
+    "apk": "tachiyomi-es.capibarahub-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
-        "name": "Capibara Traductor Hub",
+        "name": "Capibara Traductor",
         "lang": "es",
-        "id": "1575886342476435466",
+        "id": "8418064659699864878",
         "baseUrl": "https://capibaratraductor.com",
         "versionId": 1
       }
