@@ -1,20 +1,31 @@
-[
-  {
-    "name": "Tachiyomi: Capibara Traductor",
-    "pkg": "eu.kanade.tachiyomi.extension.es.capibarahub",
-    "apk": "tachiyomi-es.capibarahub-v1.4.10.apk",
-    "lang": "es",
-    "code": 10,
-    "version": "1.4.10",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Capibara Traductor",
-        "lang": "es",
-        "id": "8418064659699864878",
-        "baseUrl": "https://capibaratraductor.com",
-        "versionId": 1
-      }
-    ]
-  }
-]
+{
+  "name": "Keiyoushi",
+  "badgeLabel": "KEI",
+  "signingKey": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+  "contact": {
+    "website": "https://keiyoushi.github.io",
+    "discord": "https://discord.gg/3FbCpdKbdY"
+  },
+  "extensions": [
+    {
+      "name": "Capibara Traductor",
+      "packageName": "eu.kanade.tachiyomi.extension.es.capibarahub",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.capibarahub-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.capibarahub.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "8418064659699864878",
+          "name": "Capibara Traductor",
+          "language": "es",
+          "homeUrl": "https://capibaratraductor.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    }
+  ]
+}
