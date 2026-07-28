@@ -5,26 +5,7 @@
   "contact": {
     "website": "https://github.com/Proxy-E23/extensions-source"
   },
-  "extensions": [
-    {
-      "name": "Capibara Traductor",
-      "packageName": "eu.kanade.tachiyomi.extension.es.capibarahub",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/Proxy-E23/M-Repo/refs/heads/repo/apk/tachiyomi-es.capibarahub-v1.4.10.apk",
-        "iconUrl": "https://raw.githubusercontent.com/Proxy-E23/M-Repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.capibarahub.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 10,
-      "versionName": "1.4.10",
-      "sources": [
-        {
-          "id": "8418064659699864878",
-          "name": "Capibara Traductor",
-          "language": "es",
-          "homeUrl": "https://capibaratraductor.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    }
-  ]
+  "extensionList": {
+    "extensions": []
+  }
 }
