@@ -6,6 +6,28 @@
     "website": "https://github.com/Proxy-E23/extensions-source"
   },
   "extensionList": {
-    "extensions": []
+    "extensions": [
+      {
+        "name": "Capibara Traductor",
+        "packageName": "eu.kanade.tachiyomi.extension.es.capibarahub",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/Proxy-E23/M-Repo@repo/apk/tachiyomi-es.capibarahub-v1.6.12.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Proxy-E23/extensions-source@main/src/es/capibarahub/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/Proxy-E23/M-Repo/repo/jar/tachiyomi-es.capibarahub-v1.6.12.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "12",
+        "versionName": "1.6.12",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8418064659699864878",
+            "name": "Capibara Traductor",
+            "language": "es",
+            "homeUrl": "https://capibaratraductor.com"
+          }
+        ]
+      }
+    ]
   }
 }
