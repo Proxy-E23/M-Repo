@@ -11,13 +11,13 @@
         "name": "Capibara Traductor",
         "packageName": "eu.kanade.tachiyomi.extension.es.capibarahub",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/Proxy-E23/M-Repo@repo/apk/tachiyomi-es.capibarahub-v1.6.13.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/Proxy-E23/M-Repo@repo/apk/tachiyomi-es.capibarahub-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Proxy-E23/extensions-source@main/src/es/capibarahub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/Proxy-E23/M-Repo/repo/jar/tachiyomi-es.capibarahub-v1.6.13.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Proxy-E23/M-Repo/repo/jar/tachiyomi-es.capibarahub-v1.6.14.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
